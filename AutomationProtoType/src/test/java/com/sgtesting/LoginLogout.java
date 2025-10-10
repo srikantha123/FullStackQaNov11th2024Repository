@@ -1,4 +1,4 @@
-package com.sgtesting.tests;
+package com.sgtesting;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -95,3 +95,4 @@ public class LoginLogout
         return new Object[][] {{"admin","manager"}};
     }
 }
+
