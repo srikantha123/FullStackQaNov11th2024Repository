@@ -7,5 +7,7 @@
             <class name="com.sgtesting.CreaetUserScenario"></class>
         </classes>
     </test>
+    
 </suite>
+
 
