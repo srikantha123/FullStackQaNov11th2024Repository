@@ -3,10 +3,11 @@
 <suite name="Testcases">
     <test name="Scenarios">
         <classes>
-            <class name="src.test.java.com.sgtesting.LoginLogout"></class>
-            <class name="src.test.java.com.sgtesting.CreaetUserScenario"></class>
+            <class name="src/test/java/com/sgtesting/LoginLogout"></class>
+            <class name="src/test/java/com/sgtesting/CreaetUserScenario"></class>
         </classes>
     </test>
 </suite>
 
 src/test/java/com/sgtesting/LoginLogout.java
+
