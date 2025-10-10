@@ -1,4 +1,4 @@
-package com.sgtesting.tests;
+package com.sgtesting;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
@@ -144,4 +144,5 @@ public class CreaetUserScenario {
         return new Object[][] {{"demo","User1","demo@gmail.com","demoUser1","Welcome123","Welcome123"}};
     }
 }
+
 
