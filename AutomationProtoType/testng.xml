@@ -3,8 +3,9 @@
 <suite name="Testcases">
     <test name="Scenarios">
         <classes>
-            <class name="com.sgtesting.tests.LoginLogout"></class>
-            <class name="com.sgtesting.tests.CreaetUserScenario"></class>
+            <class name="com.sgtesting.LoginLogout"></class>
+            <class name="com.sgtesting.CreaetUserScenario"></class>
         </classes>
     </test>
+
 </suite>
